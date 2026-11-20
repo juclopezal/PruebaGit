@@ -1,0 +1,1 @@
+En este archivo se registra este texto, para poner algo nuevo en la rama princiál sin afectar la secundaria
